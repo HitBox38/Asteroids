@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9181c093542ad2439631bcfae248db3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SFX: {instanceID: 0}
+  - shootAudioClip: {fileID: 8300000, guid: 0ceac5c30a0a3ba48b3fdca305aeeefd, type: 3}
+  - boomAudioClip: {fileID: 8300000, guid: 20166c39e479d4f4e9b275016b11009b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
